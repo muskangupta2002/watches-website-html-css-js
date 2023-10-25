@@ -26,6 +26,9 @@ Welcome to the Responsive Watches Website! This project is a beautifully designe
 Author
 This Responsive Watches Website is created by Muskan. For any questions or support, please feel free to reach out.
 
+Access the Deployed Website
+To access the live version of the website, visit https://muskangupta2002.github.io/watches-website-html-css-js/.
+
 License
 This project is licensed under the MIT License.
 
