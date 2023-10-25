@@ -22,3 +22,15 @@ Welcome to the Responsive Watches Website! This project is a beautifully designe
 
    ```bash
    git clone <repository_url>
+
+Author
+This Responsive Watches Website is created by [Your Name]. For any questions or support, please feel free to reach out.
+
+License
+This project is licensed under the MIT License.
+
+Thank you for visiting the Responsive Watches Website. We hope you enjoy exploring our collection and the enhanced shopping experience with our new cart feature.
+
+python
+
+   
