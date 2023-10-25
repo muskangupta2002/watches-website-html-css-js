@@ -21,7 +21,7 @@ Welcome to the Responsive Watches Website! This project is a beautifully designe
 1. **Clone the Repository**: Begin by cloning this repository to your local machine.
 
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/muskangupta2002/watches-website-html-css-js.git>
 
 Author
 This Responsive Watches Website is created by Muskan. For any questions or support, please feel free to reach out.
