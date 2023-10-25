@@ -24,7 +24,7 @@ Welcome to the Responsive Watches Website! This project is a beautifully designe
    git clone <repository_url>
 
 Author
-This Responsive Watches Website is created by [Your Name]. For any questions or support, please feel free to reach out.
+This Responsive Watches Website is created by Muskan. For any questions or support, please feel free to reach out.
 
 License
 This project is licensed under the MIT License.
